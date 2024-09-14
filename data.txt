@@ -1,0 +1,56 @@
+# Emails
+john.doe@example.com
+jane.doe@school.edu
+contact@company.biz
+user@例え.テスト
+info@sub.example.co
+user+tag@example.com
+longname@averylongdomainname.com
+user.name+tag+sorting@example.com
+user@example.museum
+customer/department=shipping@example.com
+mailbox@domain.co.uk
+
+# Phones
++33 6 12 34 56 78
+0612345678
+099-777-7777
++1 099 777 7777
++1 099 777 7777 ext 1234
+(099) 777-7777
++44 (0) 20 7946 0958
++49 (0) 170 1234567
++81-90-1234-5678
++55 11 91234-5678
++86 139 1234 5678
+1234567890
+(123) 456-7890
+
+# Dates
+23/08/2023
+09-12-2021
+2023-08-23T14:30:00Z
+08/23/2023
+2023-08-23
+August 23, 2023
+2023/08/23
+23 August 2023
+2023.08.23
+23rd August 2023
+2023-08-23T14:30:00
+02-29-2024
+01/01/2000
+
+# URLs
+https://example.com
+http://website.org
+https://example.com/search?q=test
+https://example.com/page#section
+http://example.com:8080
+https://subdomain.example.com
+https://例え.テスト
+ftp://ftp.example.com/resource
+http://localhost:8000
+https://www.example.com/path/to/resource?query=string#fragment
+http://example.com/index.html
+https://example.com:443/path?name=value
